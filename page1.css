@@ -1,0 +1,60 @@
+/*Universal identifer*/
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+body{
+background-color: #884A39;
+}
+
+
+header{
+    color: #884A39;
+    text-align: center;
+    padding: 25px;
+    background-color: #F9E0BB;
+}
+
+/* Refernce*/
+.container{
+    text-align: center;
+    margin: 50px 60px;
+}
+
+/* Heading*/
+.heading{
+    color: #F9E0BB;
+    border: solid;
+    border-radius: 20px;
+    padding: 6px;
+}
+
+/*Rules*/
+.numbers{
+    text-align: justify;
+    color: #F9E0BB;
+    margin-top: 25px;
+    margin-left : 18px;
+}
+
+/*Next page button*/
+.button{
+    margin-left: 10px;
+    text-align: left;
+    margin-top: 100px;
+}
+
+.btn{
+    color: #F9E0BB;
+    text-decoration: none;
+    padding: 12px;
+    border-radius: 20px;
+    transition: all 0.4s ease;
+}
+
+.btn:hover{
+    background-color: #3F2305;
+}
